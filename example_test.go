@@ -5,7 +5,7 @@ import (
 	"math"
 	"math/rand/v2"
 
-	xgoboost "github.com/natemsz/XGoBoost"
+	xgoboost "github.com/natemsz/xgoboost"
 )
 
 // Price rises with quality and falls with wear, whatever the noise

@@ -18,7 +18,7 @@ Gradient-boosted decision trees with **monotone constraints**, in pure Go.
 - Standard library only. Go 1.22+.
 
 ```sh
-go get github.com/natemsz/XGoBoost
+go get github.com/natemsz/xgoboost
 ```
 
 ## Usage
@@ -32,7 +32,7 @@ import (
 	"math"
 	"os"
 
-	xgoboost "github.com/natemsz/XGoBoost"
+	xgoboost "github.com/natemsz/xgoboost"
 )
 
 func main() {
