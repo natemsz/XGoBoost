@@ -1,4 +1,4 @@
-# XGoBoost
+# xgoboost
 
 Gradient-boosted decision trees with **monotone constraints**, in pure Go.
 
